@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)](https://github.com/deepakjoshi2k)
 <h1 align="left">Hi 👋, I'm Deepak Joshi</h1>
-<h3 align="center">A passionate Data Science Enthusiast, who is fascinated by the data and wants to Explore more into this field.
+<h3 align="center">A passionate Data Science Enthusiast, who is fascinated by the data and wants to Explore more of this .<br>
 Studying Electronics Communication Engineering currently in 3rd Year.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b761102287467a637b6661d7ac4b6e91a3a8720e68192&rid=giphy.gif&ct=g">
