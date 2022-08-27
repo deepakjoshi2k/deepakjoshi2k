@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)](https://github.com/deepakjoshi2k)
+[![MasterHead](https://github.com/deepakjoshi2k/deepakjoshi2k/blob/main/Deepak%20Joshi.png)](https://github.com/deepakjoshi2k)
 <h1 align="left">Hi 👋, I'm Deepak Joshi</h1>
 <h3 align="center">A passionate Data Science Enthusiast, who is fascinated by the data and wants to Explore more of this .<br>
 Studying Electronics Communication Engineering currently in 3rd Year.</h3>
