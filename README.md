@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Science Enthusiast, who is fascinated by the data and wants to Explore more of this .<br>
 Studying Electronics Communication Engineering currently in 3rd Year.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b761102287467a637b6661d7ac4b6e91a3a8720e68192&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="250" height="300" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, NLP**
