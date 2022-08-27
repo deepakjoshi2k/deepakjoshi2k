@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/deepakjoshi2k/deepakjoshi2k/blob/main/Deepak%20Joshi.png)](https://github.com/deepakjoshi2k)
+[![MasterHead](https://github.com/deepakjoshi2k/deepakjoshi2k/blob/main/DEEPAK%20JOSHI%20(1).png)](www.linkedin.com/in/deepakjoshi2k)
 <h1 align="left">Hi 👋, I'm Deepak Joshi</h1>
 <h3 align="center">A passionate Data Science Enthusiast, who is fascinated by the data and wants to Explore more of this .<br>
 Studying Electronics Communication Engineering currently in 3rd Year.</h3>
