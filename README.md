@@ -1,22 +1,28 @@
 [![MasterHead](https://github.com/deepakjoshi2k/deepakjoshi2k/blob/main/DEEPAK%20JOSHI%20(1).png)](www.linkedin.com/in/deepakjoshi2k)
-<h1 align="left">Hi 👋, I'm Deepak Joshi</h1>
-<h3 align="center">A passionate Data Science Enthusiast, who is fascinated by the data and wants to Explore more of this .<br>
-Studying Electronics Communication Engineering currently in 3rd Year.</h3>
+<h1 align="center">Hi 👋, I'm Deepak Joshi</h1>
+<h3 align="left">A passionate Data Science Enthusiast, who is fascinated by the Data and wants to Explore more Real World Data Around the World.Ability to give insights for business growth using technology. Also learning Statistics, data exploration and visualization tools. <br><br>
+<em> - Engineering UnderGrad Student at <a href="https://bvcoend.ac.in/">Bharati Vidyapeeth's College of Engineering</a> </h3>
+
+
+
 
 <img align="right" alt="Coding" width="250" height="300" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 
-- 🌱 I’m currently learning **Machine Learning, Statistics, NLP**
+- 🌱 I’m currently learning **NLP , Statistics,Data Visualisation Tools, Polishing ML skillset**
 
 - 👨‍💻 All of my projects are available at [to be added](to be added)
 
-- 💬 Ask me about **ML, Python**
+- 💬 Discuss to me about **ML, Python**
 
 - 📫 How to reach me **joshideepak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/13njGyBL4_4T3V0rNl3IRZlKYTiedCAUV?usp=sharing](https://drive.google.com/drive/folders/13njGyBL4_4T3V0rNl3IRZlKYTiedCAUV?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/13njGyBL4_4T3V0rNl3IRZlKYTiedCAUV?usp=sharing)
+
+- 😊 I love connecting with Data Enthusiasts so if you want to say <b>hi, I'll be more happy to meet you !</b>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/deepakjoshi2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakjoshi2k" height="30" width="40" /></a>
 <a href="https://kaggle.com/deepakjoshi2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepakjoshi2k" height="30" width="40" /></a>
