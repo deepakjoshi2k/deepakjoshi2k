@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/deepakjoshi2k/deepakjoshi2k/blob/main/DEEPAK%20JOSHI%20(1).png)](www.linkedin.com/in/deepakjoshi2k)
 <h1 align="center">Hi 👋, I'm Deepak Joshi</h1>
-<h3 align="left">A passionate Data Science Enthusiast, who is fascinated by the Data and wants to Explore more Real World Data Around the World.Ability to give insights for business growth using technology. Also learning Statistics, data exploration and visualization tools. <br><br>
-<em> - Engineering UnderGrad Student at <a href="https://bvcoend.ac.in/">Bharati Vidyapeeth's College of Engineering</a> </h3>
+<h3 align="left">A passionate Data Science Enthusiast, who is fascinated by the Data and wants to Explore more Real World Data Around the World. Ability to give insights for business growth using technology. Also learning Statistics, data exploration and visualization tools. <br><br>
+<em> - Engineering UnderGrad Student at <a href="https://www.citystgeorges.ac.uk/">City St George's, University of London</a> </h3>
 
 
 
@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="250" height="300" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 
-- 🌱 I’m currently learning **NLP , Statistics,Data Visualisation Tools, Polishing ML skillset**
+- 🌱 I’m currently learning **Neural Computing, Statistics, Data Visualisation Tools, Polishing ML skillset**
 
 - 👨‍💻 All of my projects are available at [to be added](to be added)
 
