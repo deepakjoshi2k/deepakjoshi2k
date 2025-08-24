@@ -15,7 +15,7 @@
 
 - 💬 Discuss to me about **ML, Python**
 
-- 📫 How to reach me **joshideepak@gmail.com**
+- 📫 How to reach me **joshideepak@hotmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/13njGyBL4_4T3V0rNl3IRZlKYTiedCAUV?usp=sharing)
 
